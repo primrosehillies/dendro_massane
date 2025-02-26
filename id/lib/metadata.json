@@ -1,0 +1,958 @@
+{
+  "vaultName": "malo",
+  "lastExport": 1740558854148,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Ceratopogonidae.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Chironomidae.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Culicidae.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Psychodidae.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Syrphidae.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Terrestrial.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Unknown Diptera.md",
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Unknown.md",
+    "lib/media/t2_01_06_chironomidae_1_marron-foncé.jpg",
+    "lib/media/t2_04_01_chironomidae-1.jpg",
+    "lib/media/t2_01_01_chironomidae_2_marron-clair.jpg",
+    "lib/media/t2_04_02_chironomidae-2.jpg",
+    "lib/media/t2_09_02_ceratopogonidae-3.jpg",
+    "lib/media/t2_09_03-ceratopogonidae-4.jpg",
+    "lib/media/t2_10_01_ceratopogonidae-5.jpg",
+    "lib/media/t2_03_03_chironomidae-3-rayé.jpg",
+    "lib/media/t2_01_02_culicidae-1.jpg",
+    "lib/media/t2_01_03_culicidae-2.jpg",
+    "lib/media/t2_13_02_culicidae-2.jpg",
+    "lib/media/t2_13_03_culicidae-2_different-individual-from-before.jpg",
+    "lib/media/t2_18_06_culicidae-2.jpg",
+    "lib/media/t2_23_02_culicidae-2.jpg",
+    "lib/media/t2_22_03_culicidae-2.jpg",
+    "lib/media/t2_01_05_culicidae-3.jpg",
+    "lib/media/t2_13_01_culicidae-3.jpg",
+    "lib/media/t2_18_02_culicidae-3.jpg",
+    "lib/media/t2_01_07_culicidae-4.jpg",
+    "lib/media/t2_01_08_culicidae-5.jpg",
+    "lib/media/t2_03_02_culicidae-6.jpg",
+    "lib/media/t2_03_08_culicidae-6.jpg",
+    "lib/media/t2_13_04_culicidae-6.jpg",
+    "lib/media/t2_18_07_culicidae-6.jpg",
+    "lib/media/t2_03_05_culicidae-7.jpg",
+    "lib/media/t2_03_06_culicidae-8.jpg",
+    "lib/media/t2_10_03_culicidae-9.jpg",
+    "lib/media/t2_12_01_culicidae-10.jpg",
+    "lib/media/t2_12_03_culicidae-11.jpg",
+    "lib/media/t2_14_01_culicidae-12.jpg",
+    "lib/media/t2_14_01_culicidae-12_same-individual.jpg",
+    "lib/media/t2_13_06_culicidae-small.jpg",
+    "lib/media/t2_06_04_small-one-from-previous_no-idea-1.jpg",
+    "lib/media/t2_18_05_culi-13.jpg",
+    "lib/media/t2_22_04_culicidae-13.jpg",
+    "lib/media/t2_18_05_culi-13_same-indiv.jpg",
+    "lib/media/t2_21_02_culicidae-13_maybe.jpg",
+    "lib/media/t2_23_01_culicidae-13_maybe.jpg",
+    "lib/media/t2_21_02_culicidae-13_maybe_head.jpg",
+    "lib/media/t2_19_02-culicidae-13_2-indivs.jpg",
+    "lib/media/t2_06_03_medium-one-from-previous_no-idea.jpg",
+    "lib/media/t2_06_02_big-one-from-previous_aedes-geniculatus-maybe.jpg",
+    "lib/media/t2_06_01_triple-culicidae.jpg",
+    "lib/media/t2_18_03_culi-16.jpg",
+    "lib/media/t2_18_04_culi-16_different-indiv.jpg",
+    "lib/media/t2_19_03_culidiae-17_maybe-baby-culi-6.jpg",
+    "lib/media/t2_01_04_psychodidae-1.jpg",
+    "lib/media/t2_04_03_psychodidae-2.jpg",
+    "lib/media/t2_09_04-psychodidae-2.jpg",
+    "lib/media/t2_16_01_psychodidae-2.jpg",
+    "lib/media/t2_21_03_psychodidae-2.jpg",
+    "lib/media/t2_07_02_psychodidae-3.jpg",
+    "lib/media/t2_08_01_psychodidae-3.jpg",
+    "lib/media/t2_07_03_psychodidae-4.jpg",
+    "lib/media/t2_08_02-psychodidae-5.jpg",
+    "lib/media/t2_08_03_psychodidae-6.jpg",
+    "lib/media/t2_08_04_psychodidae-7.jpg",
+    "lib/media/t2_08_05-psychodidae-8.jpg",
+    "lib/media/t2_08_08_psychodidae-8.jpg",
+    "lib/media/t2_08_09_psychodidae-9.jpg",
+    "lib/media/t2_11_04_psychodidae-10.jpg",
+    "lib/media/t2_12_04_psychodidae-11.jpg",
+    "lib/media/t2_15_01_psychodidae-12.jpg",
+    "lib/media/t2_15_01_psychodidae-12_same-individual.jpg",
+    "lib/media/t2_15_01_psychodidae-12_same-individual2.jpg",
+    "lib/media/t2_22_02_psychodidae-13.jpg",
+    "lib/media/t2_22_02_psychodidae-13_same.jpg",
+    "lib/media/t2_18_08_psychodidae-13.jpg",
+    "lib/media/t2_09_01_syrphidae-1.jpg",
+    "lib/media/t2_21_01_syrphidae-1.jpg",
+    "lib/media/t2_15_02_syrphidae-2.jpg",
+    "lib/media/t2_17_01_syrphidae-3.jpg",
+    "lib/media/t2_17_02_syrphidae-3_same-indiv.jpg",
+    "lib/media/t2_17_03_syrphidae-4.jpg",
+    "lib/media/t2_17_04_syrphidae-4_same-indiv.jpg",
+    "lib/media/t2_20_01_syrphidae-5.jpg",
+    "lib/media/t2_12_02_terrestrial-1.jpg",
+    "lib/media/t2_22_01_terrestrial-1.jpg",
+    "lib/media/t2_08_07_diptera-1.jpg",
+    "lib/media/t2_10_02_diptera-2.jpg",
+    "lib/media/t2_11_01_diptera-3.jpg",
+    "lib/media/t2_11_02_diptera-4.jpg",
+    "lib/media/t2_11_03_diptera-5.jpg",
+    "lib/media/t2_15_03_diptera-5.jpg",
+    "lib/media/t2_18_01_diptera-6.jpg",
+    "lib/media/t2_07_01_big-unknown-1.jpg",
+    "lib/media/t2_19_01_big-unknown-2.jpg",
+    "lib/media/t2_04_03_truc-rose.jpg",
+    "lib/media/t2_08_06-egg-1.jpg",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/scripts/webpage.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/scripts/webpage.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Ceratopogonidae.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 1854,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/ceratopogonidae.html",
+      "dependencies": [
+        "lib/media/t2_01_06_chironomidae_1_marron-foncé.jpg",
+        "lib/media/t2_04_01_chironomidae-1.jpg",
+        "lib/media/t2_01_01_chironomidae_2_marron-clair.jpg",
+        "lib/media/t2_04_02_chironomidae-2.jpg",
+        "lib/media/t2_09_02_ceratopogonidae-3.jpg",
+        "lib/media/t2_09_03-ceratopogonidae-4.jpg",
+        "lib/media/t2_10_01_ceratopogonidae-5.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Chironomidae.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 1063,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/chironomidae.html",
+      "dependencies": [
+        "lib/media/t2_03_03_chironomidae-3-rayé.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Culicidae.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 9049,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/culicidae.html",
+      "dependencies": [
+        "lib/media/t2_01_02_culicidae-1.jpg",
+        "lib/media/t2_01_03_culicidae-2.jpg",
+        "lib/media/t2_13_02_culicidae-2.jpg",
+        "lib/media/t2_13_03_culicidae-2_different-individual-from-before.jpg",
+        "lib/media/t2_18_06_culicidae-2.jpg",
+        "lib/media/t2_23_02_culicidae-2.jpg",
+        "lib/media/t2_22_03_culicidae-2.jpg",
+        "lib/media/t2_01_05_culicidae-3.jpg",
+        "lib/media/t2_13_01_culicidae-3.jpg",
+        "lib/media/t2_18_02_culicidae-3.jpg",
+        "lib/media/t2_01_07_culicidae-4.jpg",
+        "lib/media/t2_01_08_culicidae-5.jpg",
+        "lib/media/t2_03_02_culicidae-6.jpg",
+        "lib/media/t2_03_08_culicidae-6.jpg",
+        "lib/media/t2_13_04_culicidae-6.jpg",
+        "lib/media/t2_18_07_culicidae-6.jpg",
+        "lib/media/t2_03_05_culicidae-7.jpg",
+        "lib/media/t2_03_06_culicidae-8.jpg",
+        "lib/media/t2_10_03_culicidae-9.jpg",
+        "lib/media/t2_12_01_culicidae-10.jpg",
+        "lib/media/t2_12_03_culicidae-11.jpg",
+        "lib/media/t2_14_01_culicidae-12.jpg",
+        "lib/media/t2_14_01_culicidae-12_same-individual.jpg",
+        "lib/media/t2_13_06_culicidae-small.jpg",
+        "lib/media/t2_06_04_small-one-from-previous_no-idea-1.jpg",
+        "lib/media/t2_18_05_culi-13.jpg",
+        "lib/media/t2_22_04_culicidae-13.jpg",
+        "lib/media/t2_18_05_culi-13_same-indiv.jpg",
+        "lib/media/t2_21_02_culicidae-13_maybe.jpg",
+        "lib/media/t2_23_01_culicidae-13_maybe.jpg",
+        "lib/media/t2_21_02_culicidae-13_maybe_head.jpg",
+        "lib/media/t2_19_02-culicidae-13_2-indivs.jpg",
+        "lib/media/t2_06_03_medium-one-from-previous_no-idea.jpg",
+        "lib/media/t2_06_02_big-one-from-previous_aedes-geniculatus-maybe.jpg",
+        "lib/media/t2_06_01_triple-culicidae.jpg",
+        "lib/media/t2_18_03_culi-16.jpg",
+        "lib/media/t2_18_04_culi-16_different-indiv.jpg",
+        "lib/media/t2_19_03_culidiae-17_maybe-baby-culi-6.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Psychodidae.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2897,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/psychodidae.html",
+      "dependencies": [
+        "lib/media/t2_01_04_psychodidae-1.jpg",
+        "lib/media/t2_04_03_psychodidae-2.jpg",
+        "lib/media/t2_09_04-psychodidae-2.jpg",
+        "lib/media/t2_16_01_psychodidae-2.jpg",
+        "lib/media/t2_21_03_psychodidae-2.jpg",
+        "lib/media/t2_07_02_psychodidae-3.jpg",
+        "lib/media/t2_08_01_psychodidae-3.jpg",
+        "lib/media/t2_07_03_psychodidae-4.jpg",
+        "lib/media/t2_08_02-psychodidae-5.jpg",
+        "lib/media/t2_08_03_psychodidae-6.jpg",
+        "lib/media/t2_08_04_psychodidae-7.jpg",
+        "lib/media/t2_08_05-psychodidae-8.jpg",
+        "lib/media/t2_08_08_psychodidae-8.jpg",
+        "lib/media/t2_08_09_psychodidae-9.jpg",
+        "lib/media/t2_11_04_psychodidae-10.jpg",
+        "lib/media/t2_12_04_psychodidae-11.jpg",
+        "lib/media/t2_15_01_psychodidae-12.jpg",
+        "lib/media/t2_15_01_psychodidae-12_same-individual.jpg",
+        "lib/media/t2_15_01_psychodidae-12_same-individual2.jpg",
+        "lib/media/t2_22_02_psychodidae-13.jpg",
+        "lib/media/t2_22_02_psychodidae-13_same.jpg",
+        "lib/media/t2_18_08_psychodidae-13.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Syrphidae.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 615,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/syrphidae.html",
+      "dependencies": [
+        "lib/media/t2_09_01_syrphidae-1.jpg",
+        "lib/media/t2_21_01_syrphidae-1.jpg",
+        "lib/media/t2_15_02_syrphidae-2.jpg",
+        "lib/media/t2_17_01_syrphidae-3.jpg",
+        "lib/media/t2_17_02_syrphidae-3_same-indiv.jpg",
+        "lib/media/t2_17_03_syrphidae-4.jpg",
+        "lib/media/t2_17_04_syrphidae-4_same-indiv.jpg",
+        "lib/media/t2_20_01_syrphidae-5.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Terrestrial.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 388,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/terrestrial.html",
+      "dependencies": [
+        "lib/media/t2_12_02_terrestrial-1.jpg",
+        "lib/media/t2_22_01_terrestrial-1.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Diptera/Unknown Diptera.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 567,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/diptera/unknown-diptera.html",
+      "dependencies": [
+        "lib/media/t2_08_07_diptera-1.jpg",
+        "lib/media/t2_10_02_diptera-2.jpg",
+        "lib/media/t2_11_01_diptera-3.jpg",
+        "lib/media/t2_11_02_diptera-4.jpg",
+        "lib/media/t2_11_03_diptera-5.jpg",
+        "lib/media/t2_15_03_diptera-5.jpg",
+        "lib/media/t2_18_01_diptera-6.jpg"
+      ]
+    },
+    "100 - Science/110 - Dendros/115 - Identification/Insects/Unknown.md": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 312,
+      "exportedPath": "100-science/110-dendros/115-identification/insects/unknown.html",
+      "dependencies": [
+        "lib/media/t2_07_01_big-unknown-1.jpg",
+        "lib/media/t2_19_01_big-unknown-2.jpg",
+        "lib/media/t2_04_03_truc-rose.jpg",
+        "lib/media/t2_08_06-egg-1.jpg"
+      ]
+    },
+    "lib/media/t2_01_06_chironomidae_1_marron-foncé.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2308588,
+      "exportedPath": "lib/media/t2_01_06_chironomidae_1_marron-foncé.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_04_01_chironomidae-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2361720,
+      "exportedPath": "lib/media/t2_04_01_chironomidae-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_01_chironomidae_2_marron-clair.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2196385,
+      "exportedPath": "lib/media/t2_01_01_chironomidae_2_marron-clair.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_04_02_chironomidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2300319,
+      "exportedPath": "lib/media/t2_04_02_chironomidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_09_02_ceratopogonidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2299934,
+      "exportedPath": "lib/media/t2_09_02_ceratopogonidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_09_03-ceratopogonidae-4.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2122457,
+      "exportedPath": "lib/media/t2_09_03-ceratopogonidae-4.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_10_01_ceratopogonidae-5.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2284033,
+      "exportedPath": "lib/media/t2_10_01_ceratopogonidae-5.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_03_03_chironomidae-3-rayé.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2390173,
+      "exportedPath": "lib/media/t2_03_03_chironomidae-3-rayé.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_02_culicidae-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2001616,
+      "exportedPath": "lib/media/t2_01_02_culicidae-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_03_culicidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2324569,
+      "exportedPath": "lib/media/t2_01_03_culicidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_13_02_culicidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2313143,
+      "exportedPath": "lib/media/t2_13_02_culicidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_13_03_culicidae-2_different-individual-from-before.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2167650,
+      "exportedPath": "lib/media/t2_13_03_culicidae-2_different-individual-from-before.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_06_culicidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2388933,
+      "exportedPath": "lib/media/t2_18_06_culicidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_23_02_culicidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2358494,
+      "exportedPath": "lib/media/t2_23_02_culicidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_22_03_culicidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2368412,
+      "exportedPath": "lib/media/t2_22_03_culicidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_05_culicidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2339221,
+      "exportedPath": "lib/media/t2_01_05_culicidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_13_01_culicidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2302814,
+      "exportedPath": "lib/media/t2_13_01_culicidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_02_culicidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2313667,
+      "exportedPath": "lib/media/t2_18_02_culicidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_07_culicidae-4.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2299866,
+      "exportedPath": "lib/media/t2_01_07_culicidae-4.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_08_culicidae-5.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2337152,
+      "exportedPath": "lib/media/t2_01_08_culicidae-5.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_03_02_culicidae-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2413701,
+      "exportedPath": "lib/media/t2_03_02_culicidae-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_03_08_culicidae-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2434750,
+      "exportedPath": "lib/media/t2_03_08_culicidae-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_13_04_culicidae-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2274106,
+      "exportedPath": "lib/media/t2_13_04_culicidae-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_07_culicidae-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2378141,
+      "exportedPath": "lib/media/t2_18_07_culicidae-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_03_05_culicidae-7.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2423208,
+      "exportedPath": "lib/media/t2_03_05_culicidae-7.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_03_06_culicidae-8.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2205763,
+      "exportedPath": "lib/media/t2_03_06_culicidae-8.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_10_03_culicidae-9.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2322523,
+      "exportedPath": "lib/media/t2_10_03_culicidae-9.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_12_01_culicidae-10.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2413392,
+      "exportedPath": "lib/media/t2_12_01_culicidae-10.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_12_03_culicidae-11.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 454634,
+      "exportedPath": "lib/media/t2_12_03_culicidae-11.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_14_01_culicidae-12.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2353539,
+      "exportedPath": "lib/media/t2_14_01_culicidae-12.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_14_01_culicidae-12_same-individual.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2138931,
+      "exportedPath": "lib/media/t2_14_01_culicidae-12_same-individual.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_13_06_culicidae-small.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2288413,
+      "exportedPath": "lib/media/t2_13_06_culicidae-small.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_06_04_small-one-from-previous_no-idea-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2250159,
+      "exportedPath": "lib/media/t2_06_04_small-one-from-previous_no-idea-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_05_culi-13.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2382374,
+      "exportedPath": "lib/media/t2_18_05_culi-13.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_22_04_culicidae-13.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2295826,
+      "exportedPath": "lib/media/t2_22_04_culicidae-13.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_05_culi-13_same-indiv.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2328351,
+      "exportedPath": "lib/media/t2_18_05_culi-13_same-indiv.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_21_02_culicidae-13_maybe.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2224183,
+      "exportedPath": "lib/media/t2_21_02_culicidae-13_maybe.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_23_01_culicidae-13_maybe.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2280592,
+      "exportedPath": "lib/media/t2_23_01_culicidae-13_maybe.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_21_02_culicidae-13_maybe_head.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 402530,
+      "exportedPath": "lib/media/t2_21_02_culicidae-13_maybe_head.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_19_02-culicidae-13_2-indivs.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2393548,
+      "exportedPath": "lib/media/t2_19_02-culicidae-13_2-indivs.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_06_03_medium-one-from-previous_no-idea.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2344867,
+      "exportedPath": "lib/media/t2_06_03_medium-one-from-previous_no-idea.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_06_02_big-one-from-previous_aedes-geniculatus-maybe.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2217998,
+      "exportedPath": "lib/media/t2_06_02_big-one-from-previous_aedes-geniculatus-maybe.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_06_01_triple-culicidae.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2403403,
+      "exportedPath": "lib/media/t2_06_01_triple-culicidae.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_03_culi-16.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2384348,
+      "exportedPath": "lib/media/t2_18_03_culi-16.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_04_culi-16_different-indiv.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2253168,
+      "exportedPath": "lib/media/t2_18_04_culi-16_different-indiv.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_19_03_culidiae-17_maybe-baby-culi-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2287011,
+      "exportedPath": "lib/media/t2_19_03_culidiae-17_maybe-baby-culi-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_01_04_psychodidae-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2443333,
+      "exportedPath": "lib/media/t2_01_04_psychodidae-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_04_03_psychodidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2328367,
+      "exportedPath": "lib/media/t2_04_03_psychodidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_09_04-psychodidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2508113,
+      "exportedPath": "lib/media/t2_09_04-psychodidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_16_01_psychodidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2491226,
+      "exportedPath": "lib/media/t2_16_01_psychodidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_21_03_psychodidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2330778,
+      "exportedPath": "lib/media/t2_21_03_psychodidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_07_02_psychodidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2369439,
+      "exportedPath": "lib/media/t2_07_02_psychodidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_01_psychodidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2465423,
+      "exportedPath": "lib/media/t2_08_01_psychodidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_07_03_psychodidae-4.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2364641,
+      "exportedPath": "lib/media/t2_07_03_psychodidae-4.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_02-psychodidae-5.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2376517,
+      "exportedPath": "lib/media/t2_08_02-psychodidae-5.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_03_psychodidae-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2170380,
+      "exportedPath": "lib/media/t2_08_03_psychodidae-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_04_psychodidae-7.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2684731,
+      "exportedPath": "lib/media/t2_08_04_psychodidae-7.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_05-psychodidae-8.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2647539,
+      "exportedPath": "lib/media/t2_08_05-psychodidae-8.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_08_psychodidae-8.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2862709,
+      "exportedPath": "lib/media/t2_08_08_psychodidae-8.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_09_psychodidae-9.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 3197211,
+      "exportedPath": "lib/media/t2_08_09_psychodidae-9.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_11_04_psychodidae-10.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2479004,
+      "exportedPath": "lib/media/t2_11_04_psychodidae-10.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_12_04_psychodidae-11.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2170058,
+      "exportedPath": "lib/media/t2_12_04_psychodidae-11.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_15_01_psychodidae-12.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2685147,
+      "exportedPath": "lib/media/t2_15_01_psychodidae-12.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_15_01_psychodidae-12_same-individual.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2514891,
+      "exportedPath": "lib/media/t2_15_01_psychodidae-12_same-individual.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_15_01_psychodidae-12_same-individual2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2846834,
+      "exportedPath": "lib/media/t2_15_01_psychodidae-12_same-individual2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_22_02_psychodidae-13.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2448230,
+      "exportedPath": "lib/media/t2_22_02_psychodidae-13.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_22_02_psychodidae-13_same.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2430874,
+      "exportedPath": "lib/media/t2_22_02_psychodidae-13_same.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_08_psychodidae-13.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2422583,
+      "exportedPath": "lib/media/t2_18_08_psychodidae-13.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_09_01_syrphidae-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2655016,
+      "exportedPath": "lib/media/t2_09_01_syrphidae-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_21_01_syrphidae-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2272974,
+      "exportedPath": "lib/media/t2_21_01_syrphidae-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_15_02_syrphidae-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2095059,
+      "exportedPath": "lib/media/t2_15_02_syrphidae-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_17_01_syrphidae-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2400177,
+      "exportedPath": "lib/media/t2_17_01_syrphidae-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_17_02_syrphidae-3_same-indiv.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2399085,
+      "exportedPath": "lib/media/t2_17_02_syrphidae-3_same-indiv.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_17_03_syrphidae-4.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2353057,
+      "exportedPath": "lib/media/t2_17_03_syrphidae-4.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_17_04_syrphidae-4_same-indiv.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2405932,
+      "exportedPath": "lib/media/t2_17_04_syrphidae-4_same-indiv.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_20_01_syrphidae-5.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2330022,
+      "exportedPath": "lib/media/t2_20_01_syrphidae-5.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_12_02_terrestrial-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2715419,
+      "exportedPath": "lib/media/t2_12_02_terrestrial-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_22_01_terrestrial-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2734749,
+      "exportedPath": "lib/media/t2_22_01_terrestrial-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_07_diptera-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2257535,
+      "exportedPath": "lib/media/t2_08_07_diptera-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_10_02_diptera-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2239215,
+      "exportedPath": "lib/media/t2_10_02_diptera-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_11_01_diptera-3.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2228859,
+      "exportedPath": "lib/media/t2_11_01_diptera-3.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_11_02_diptera-4.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2078195,
+      "exportedPath": "lib/media/t2_11_02_diptera-4.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_11_03_diptera-5.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2205708,
+      "exportedPath": "lib/media/t2_11_03_diptera-5.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_15_03_diptera-5.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2230430,
+      "exportedPath": "lib/media/t2_15_03_diptera-5.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_18_01_diptera-6.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 3243924,
+      "exportedPath": "lib/media/t2_18_01_diptera-6.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_07_01_big-unknown-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2423817,
+      "exportedPath": "lib/media/t2_07_01_big-unknown-1.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_19_01_big-unknown-2.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2338765,
+      "exportedPath": "lib/media/t2_19_01_big-unknown-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_04_03_truc-rose.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2217889,
+      "exportedPath": "lib/media/t2_04_03_truc-rose.jpg",
+      "dependencies": []
+    },
+    "lib/media/t2_08_06-egg-1.jpg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 2182024,
+      "exportedPath": "lib/media/t2_08_06-egg-1.jpg",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 137305,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 855378,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1740558854148,
+      "sourceSize": 6566,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
